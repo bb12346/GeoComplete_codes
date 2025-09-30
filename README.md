@@ -1,4 +1,5 @@
-## GeoComplete: Geometry-Aware Diffusion for Reference-Driven Image Completion
+## GeoComplete: Geometry-Aware Diffusion for Reference-Driven Image Completion (NeurIPS 2025)
+## Official codes
 <div align="center">
 Beibei Lin, Tingting Chen, Robby T. Tan
 
