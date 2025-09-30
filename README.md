@@ -9,8 +9,9 @@ National University of Singapore
 
 </div>
 
+
 <p align="center">
-<img src="https://github.com/bb12346/GeoComplete/static/images/overview.png" width=95%>
+<img src="https://github.com/bb12346/GeoComplete/blob/main/static/images/overview.png" width=95%>
 <p>
 
 ## Abstract
